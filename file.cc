@@ -3,7 +3,7 @@
 //
 // Implement the C standard I/O library in C++ style.
 //
-// Author: Morris Bernstein
+// Skeleton provided by: Morris Bernstein
 // Copyright 2019, Systems Deployment, LLC.
 //
 // Modified by: Ian McDermott
